@@ -72,8 +72,8 @@ button{
    padding: 14px;
    border: none;
    border-radius: 8px;
-   background-color: rgb(93, 146, 244);
-   color:antiquewhite;
+   background-color: red;
+   color:black;
    font-size: 17px;
    font-weight: bold;
    cursor:pointer;
